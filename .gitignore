@@ -16,6 +16,7 @@ Hardware/*.gts
 
 # ignore all CAM output bundles
 Hardware/*.zip
+*.DS_Store
 
 # ignore text files, but only when they're CAM output artifacts
 Hardware/TuringFront.txt
